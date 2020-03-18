@@ -1,0 +1,15 @@
+{
+  "name": "bulk",
+  "version": "1.0.0",
+  "description": "Api for Bulk actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matthew Lyons",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
